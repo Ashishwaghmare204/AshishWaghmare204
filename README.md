@@ -1,4 +1,4 @@
-# 👨‍💻 Ashish Waghmare
+## Hi 👋, I'm Ashish
 
 A passionate full-stack developer from Pune, India — focused on building clean web apps, mastering Java, and growing through clarity and connection.
 
@@ -13,8 +13,7 @@ A passionate full-stack developer from Pune, India — focused on building clean
 
 | Domain                | Skills/Tools                             | Projects |
 |----------------------|------------------------------------------|----------|
-| Frontend Development | HTML, CSS, JavaScript, Bootstrap         | [Habit Tracker Website](#) |
-| Backend Development  | React.js, Node.js                        | [Dairy Management System](#) *(Ongoing)* |
+| Frontend Development | HTML, CSS, JavaScript, Bootstrap, React.js | [Habit Tracker Website](#) |
 | Core Java            | Java, JDBC, MVC Design Patterns          | [Java Interview Prep Repo](#) *(Coming Soon)* |
 | Database             | MySQL, XAMPP                             | — |
 | Tools & IDEs         | VSCode, Eclipse                          | — |
@@ -29,15 +28,6 @@ A passionate full-stack developer from Pune, India — focused on building clean
 
 - **BCA (May 2024)**  
   Shri Shivaji Science College, Amravati
-
----
-
-### 🏆 Certifications
-
-- C++ Programming  
-- NPTEL: Software Testing & Quality Assurance  
-- German Language  
-- Curriculum Activities
 
 ---
 
