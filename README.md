@@ -1,13 +1,9 @@
 ## Hi 👋, I'm Ashish
 
-A passionate full-stack developer from Pune, India — focused on building clean web apps, mastering Java, and growing through clarity and connection.
+A passionate full-stack developer from Pune, India
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=ashishwaghmare&color=blue)
 
-### 📊 Profile Stats
-**Profile views:** ![Profile Views](https://komarev.com/ghpvc/?username=ashishwaghmare&color=blue)
-
----
 
 ### 🧠 Domain Expertise
 
@@ -20,30 +16,6 @@ A passionate full-stack developer from Pune, India — focused on building clean
 | Version Control      | Git, GitHub                              | [GitHub Profile README](#) |
 
 ---
-
-### 🎓 Education
-
-- **MCA (Expected May 2026)**  
-  Pratibha Institute of Business Management, Pune
-
-- **BCA (May 2024)**  
-  Shri Shivaji Science College, Amravati
-
----
-
-### 🌐 Languages
-
-- Marathi  
-- Hindi  
-- English
-
----
-
-### 📫 Contact
-
-- 📞 +91-9309350471  
-- 📧 [waghmareashu2004@gmail.com](mailto:waghmareashu2004@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashish-waghmare-42076a290/)
 
 ---
 
